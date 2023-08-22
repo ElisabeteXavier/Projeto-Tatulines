@@ -1,6 +1,6 @@
 # Projeto-Tatulines
 
-# Projeto Responsivo Utilizando Media Queries
+## Projeto Responsivo Utilizando Media Queries
 
 Este é um exemplo de README para um projeto que demonstra o uso de media queries para criar um design responsivo em um site.
 
